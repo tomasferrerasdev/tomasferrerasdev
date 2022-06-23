@@ -1,6 +1,7 @@
+<h1>Welcome to my github page! 👀</h1><p> I'm Tomas, software developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299750.png" width="13"/> 
 <h1>I belive it’s important to always have a growth mindset and contribute to the best of my ability.</h1>
 <img src="https://user-images.githubusercontent.com/107090584/173257079-e18ed277-d48f-4818-bb4b-2e1dfbaaf622.png"></img>
-<h1>Welcome to my github page! 👀</h1><p></br> I'm Tomas, software developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299750.png" width="13"/> <b>Tandil, Argentina</b>, currently focused on frontend development whith <b>React, NextJS, NodeJS and PostgreSQL</b>. </p>
+<b>Tandil, Argentina</b>, currently focused on frontend development whith <b>React, NextJS, NodeJS and PostgreSQL</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
