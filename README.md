@@ -1,6 +1,6 @@
 <h1>Welcome to my github page! 👀</h1> 
 <h3>
-  Mostly focused on frontend development with <b>React, NextJS, NodeJS and<br>
+  Mostly focused on frontend development with <b>React, NextJS, NodeJS, TypeScript and<br>
   PostgreSQL</b>.
 </h3>
 <p>
