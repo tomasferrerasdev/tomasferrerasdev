@@ -1,7 +1,14 @@
-<h1>Welcome to my github page! 👀</h1><p> I'm Tomas, software developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299750.png" width="13"/> 
-<h1>I belive it’s important to always have a growth mindset and contribute to the best of my ability.</h1>
-<img src="https://user-images.githubusercontent.com/107090584/173257079-e18ed277-d48f-4818-bb4b-2e1dfbaaf622.png"></img>
-<b>Tandil, Argentina</b>, currently focused on frontend development whith <b>React, NextJS, NodeJS and PostgreSQL</b>. </p>
+<h1>Welcome to my github page! 👀</h1> 
+<h3>
+  Mostly focused on frontend development with <b>React, NextJS, NodeJS and<br>
+  PostgreSQL</b>.
+</h3>
+<p>
+  Currently I spend most of my free time learning web technologies so that i can participate in <br>
+  creative projects that affects people in positives ways. I belive it’s important to always have a<br>
+  growth mindset and contribute to the best of my ability.
+</p>
+  
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -23,9 +30,7 @@
     <li>Team collaboration initiative</li>
 </ul>
 <h3>Out of work</h3>
-<p>Besides technologies and working
-I love to make barbecues, hang
-outside with friends to drink a beer
-or maybe two, watching old horror
-movies and listening country,
-punk or rockabilly music.</p>
+<p>
+Besides technologies and working I love to make barbecues, hang outside with friends to drink a<br>
+beer or maybe two, watching old horror movies and listening country, punk or rockabilly music.
+</p>
