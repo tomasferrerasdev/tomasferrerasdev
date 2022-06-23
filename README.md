@@ -34,3 +34,10 @@
 Besides technologies and working I love to make barbecues, hang outside with friends to drink a<br>
 beer or maybe two, watching old horror movies and listening country, punk or rockabilly music.
 </p>
+
+<h3>Learning</h3>
+<ul>
+    <li>Docker 🐋</li>
+    <li>Documentation 📝</li>
+    <li>Unit testing, end to end testing, TDD 🧪</li>
+</ul>
