@@ -1,7 +1,7 @@
 <h1>Welcome to my github page! 👀</h1> 
 <h3>
   Mostly focused on frontend development with <b>React, NextJS, NodeJS, TypeScript and<br>
-  PostgreSQL</b>.
+  MongoDB</b>.
 </h3>
 <p>
   Currently I spend most of my free time learning web technologies so that i can participate in <br>
