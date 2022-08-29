@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1 align="left">Hi! I’m Tomas Ferreras a software developer willing to solve complex software challenges and provide value to the growth of any project 🚀</h1>
 
