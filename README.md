@@ -2,15 +2,9 @@
 
 <h1 align="left">Hi! I’m Tomas Ferreras a software developer willing to solve complex software challenges and provide value to the growth of any project 🚀</h1>
 
-###
-
 <br clear="both">
 
 <h3 align="left">I'm mostly focused on frontend development with React, NextJS, NodeJS, TypeScript, PostgreSQL and MongoDB</h3>
-
-###
-
-<br clear="both">
 
 <p align="left">Currently I spend most of my free time learning web technologies so that i can participate in<br>creative projects that affects people in positives ways. I belive it’s important to always have a<br>growth mindset and contribute to the best of my ability.</p>
 
@@ -36,10 +30,6 @@
 <br clear="both">
 
 <p align="left">Soft skills<br>✅ Empathy <br>✅ Collective property<br>✅ Passion for learning and teaching<br>✅ Team collaboration initiative</p>
-
-###
-
-<br clear="both">
 
 <p align="left">Learning<br>- Docker 🐋<br>- Documentation 📝<br> - Unit testing, end to end testing, TDD 🧪</p>
 
