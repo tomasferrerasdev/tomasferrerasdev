@@ -35,7 +35,3 @@ React, NextJS, NodeJS, TypeScript, PostgreSQL and MongoDB</h3>
 
 <div align="left">
 </div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=98srasvvlvt2ket7aa021v7ky)
