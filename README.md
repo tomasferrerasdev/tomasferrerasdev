@@ -26,7 +26,7 @@ React, NextJS, NodeJS, TypeScript, PostgreSQL and MongoDB</h3>
 
 <p align="left">Soft skills<br>✅ Empathy <br>✅ Collective property<br>✅ Passion for learning and teaching<br>✅ Team collaboration initiative</p>
 
-<p align="left">Learning<br>- Redis 🧰<br>- Documentation 📝<br> - Unit testing, end to end testing, TDD 🧪</p>
+<p align="left">Learning<br>- Three.JS, WebGL <br> - Unit testing, end to end testing, TDD 🧪</p>
 
 ###
 
