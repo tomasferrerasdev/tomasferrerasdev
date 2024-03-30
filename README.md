@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi! I’m Tomas Ferreras a software developer willing to solve complex software challenges and provide value to the growth of any project 🚀</h1>
-<h3 align="left">I'm mostly focused on frontend development with <br/>
+<h3 align="left">I'm mostly focused on frontend development<br/>
 React, NextJS, NodeJS, TypeScript, PostgreSQL and MongoDB</h3>
 
 <p align="left">Currently I spend most of my free time learning web technologies so that i can participate in<br>creative projects that affects people in positives ways. I belive it’s important to always have a<br>growth mindset and contribute to the best of my ability.</p>
