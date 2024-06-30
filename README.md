@@ -17,6 +17,8 @@ React, React Native, NextJS, NodeJS, Express, TypeScript, PostgreSQL and MongoDB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="39" width="39" alt="git logo"   />
 </div>
 
 ###
@@ -25,7 +27,7 @@ React, React Native, NextJS, NodeJS, Express, TypeScript, PostgreSQL and MongoDB
 
 <p align="left">Soft skills<br>✅ Empathy <br>✅ Collective property<br>✅ Passion for learning and teaching<br>✅ Team collaboration initiative</p>
 
-<p align="left">Learning<br>- Three.JS, WebGL △ <br> - Unit testing, end to end testing, TDD 🧪</p>
+<p align="left">Learning<br>- Three.JS, WebGL △ <br></p>
 
 ###
 
